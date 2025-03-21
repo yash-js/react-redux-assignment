@@ -13,7 +13,7 @@ A simple **Task Management App** built with **React, Redux, and TypeScript**, al
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/yash-js/react-redux-assignment.git
-   cd task-manager
+   cd react-redux-assignment
    ```
 2. **Install dependencies**  
    ```sh
